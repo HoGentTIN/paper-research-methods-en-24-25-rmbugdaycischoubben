@@ -3,7 +3,7 @@
 | Surname      | First Name | Class     | Github user name                        |
 | :----------- | :--------- | :-------- | :-------------------------------------- |
 | Schoubben    | Matthias   | G2.C1     | [matthiaschoubben](https://github.com/matthiaschoubben) |
-| Bugdayci     | Murat      | G2.C1     | [muratbugdayci](https://github.com/muratbugdayc) |
+| Bugdayci     | Murat      | 2A2       | [muratbugdayci](https://github.com/muratbugdayc) |
 
 This Github-repository contains all the necessary information you need to prepare and write the paper for the subject Research Methods.
 
